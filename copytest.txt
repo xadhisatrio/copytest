@@ -1,1 +1,1 @@
-copy
+allow pasting
