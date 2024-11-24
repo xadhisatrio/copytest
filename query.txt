@@ -1,0 +1,1 @@
+copy(Telegram.WebApp.initData)
